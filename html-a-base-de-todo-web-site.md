@@ -10,7 +10,7 @@ Se você já utilizou o Word ou algum editor de texto similar para formatar text
 	<p>Exemplo de marcação de um paragrafo em HTML</p>
 ```
 	
-Como você pode ver no exemplo acima, **marquei** um paragrafo usando HTML, envolvendo-o em um *código especial*, o qual nós chamamos de *tag*, a tag <p> no exemplo. Por hora preocupe-se com a definição de uma linguagem de marcação, mais para frente falaremos com mais calma sobre tags.
+Como você pode ver no exemplo acima, **marquei** um paragrafo usando HTML, envolvendo-o em um *código especial*, o qual nós chamamos de *tag*, a tag `<p>`no exemplo. Por hora preocupe-se com a definição de uma linguagem de marcação, mais para frente falaremos com mais calma sobre tags.
 
 Certo Nico, já entendi o que é uma linguagem de marcação mas e a parte do hipertexto?
 
