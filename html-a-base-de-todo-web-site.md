@@ -1,4 +1,4 @@
-#HTML a base de todo web site.
+# HTML a base de todo web site.
 
 Durante essa nossa jornada de posts, pretendo te introduzir ao mundo do desenvolvimento web e nada melhor que iniciar falando sobre a base de qualquer web site. O HTML! Mas afinal, o que é o **HTML**?! 
 
@@ -7,7 +7,7 @@ O HTML é uma sigla para *HyperText Markup Language* que em português seria **L
 Se você já utilizou o Word ou algum editor de texto similar para formatar textos, sabe que para fazer qualquer formatação, como deixar em **negrito**, *italico*, criar titulos ou parágrafos, mudar a cor da fonte, etc... Deve selecionar uma parte do texto e clicar na opção desejada e pronto. Uma linguagem de marcação funciona de forma similar, você envolve partes do texto com *códigos especiais* para dar maior informação ao texto, como dar destaque colocando em negrito, definindo um titulo, paragrafos, entre outras informações, visuais ou não.
 	
 ```html
-	<p>Exemplo de marcação de um paragrafo em HTML<p/>
+	<p>Exemplo de marcação de um paragrafo em HTML</p>
 ```
 	
 Como você pode ver no exemplo acima, **marquei** um paragrafo usando HTML, envolvendo-o em um *código especial*, o qual nós chamamos de *tag*, a tag <p> no exemplo. Por hora preocupe-se com a definição de uma linguagem de marcação, mais para frente falaremos com mais calma sobre tags.
